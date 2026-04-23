@@ -74,7 +74,7 @@ ORDER BY [Total Bookings] DESC;
 
 /*
 Question 4: 
-I keep hearing that our superhost programme drives better outcomes. 
+We keep hearing that our superhost programme drives better outcomes. 
 Do superhosts actually earn more and get higher ratings than regular hosts?
 */ 
 
